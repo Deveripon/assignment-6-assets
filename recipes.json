@@ -1233,6 +1233,1245 @@
         "cooking_time": "41 minutes",
         "author": "Chef Jordan",
         "thumbnail": "dips-5.jpg"
+    },
+    {
+        "rating": {
+            "rating_count": 45,
+            "average_rating": 4.8
+        },
+        "category_id": "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+        "description": "Dive into this classic shrimp scampi recipe, loaded with garlic, butter, and lemon flavors. Perfectly paired with pasta or enjoyed on its own.",
+        "title": "Garlic Butter Shrimp Scampi",
+        "published_date": "2024-09-02",
+        "cooking_time": "25 minutes",
+        "author": "Emma Watson",
+        "thumbnail": "Garlic-Butter-Shrimp-Scampi.jpg"
+    },
+    {
+        "rating": {
+            "rating_count": 62,
+            "average_rating": 4.7
+        },
+        "category_id": "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+        "description": "This tangy lemon herb salmon is a crowd-pleaser. With a zesty glaze and fresh herbs, it’s a healthy yet indulgent meal.",
+        "title": "Lemon Herb Glazed Salmon",
+        "published_date": "2024-09-03",
+        "cooking_time": "30 minutes",
+        "author": "Sophia Nguyen",
+        "thumbnail": "Lemon-Herb-Salmon.jpg"
+    },
+    {
+        "rating": {
+            "rating_count": 51,
+            "average_rating": 4.6
+        },
+        "category_id": "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+        "description": "This easy-to-make crab cake recipe delivers golden brown patties that are crispy on the outside and tender on the inside.",
+        "title": "Crispy Crab Cakes",
+        "published_date": "2024-09-04",
+        "cooking_time": "40 minutes",
+        "author": "Liam Adams",
+        "thumbnail": "Crab-Cakes.jpg"
+    },
+    {
+        "rating": {
+            "rating_count": 29,
+            "average_rating": 4.5
+        },
+        "category_id": "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+        "description": "Warm up with this comforting seafood chowder filled with shrimp, scallops, and cod in a creamy base.",
+        "title": "Seafood Chowder",
+        "published_date": "2024-09-05",
+        "cooking_time": "50 minutes",
+        "author": "Noah Brown",
+        "thumbnail": "Creamy-Shrimp-Chowder.jpg"
+    },
+    {
+        "rating": {
+            "rating_count": 37,
+            "average_rating": 4.7
+        },
+        "category_id": "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+        "description": "Crispy, fried calamari served with a tangy marinara sauce. A perfect appetizer for any seafood lover.",
+        "title": "Fried Calamari with Marinara Sauce",
+        "published_date": "2024-09-06",
+        "cooking_time": "20 minutes",
+        "author": "Olivia Martinez",
+        "thumbnail": "fried-calamari_thecozyapron.jpg"
+    },
+
+    {
+        "rating": {
+            "rating_count": 58,
+            "average_rating": 4.8
+        },
+        "category_id": "7f8d5a1c-9b3e-4a6f-8f1d-5c9a9e2b3d4e",
+        "description": "A classic, hearty soup featuring chicken, egg noodles, and fresh vegetables in a savory broth.",
+        "title": "Classic Chicken Noodle Soup",
+        "published_date": "2024-09-15",
+        "cooking_time": "40 minutes",
+        "author": "Sophia Roberts",
+        "thumbnail": "Classic_Chicken_Noodle_Soup.jpg"
+    },
+    {
+        "rating": {
+            "rating_count": 45,
+            "average_rating": 4.6
+        },
+        "category_id": "7f8d5a1c-9b3e-4a6f-8f1d-5c9a9e2b3d4e",
+        "description": "A velvety tomato soup infused with fresh basil and garlic for a comforting meal.",
+        "title": "Creamy Tomato Basil Soup",
+        "published_date": "2024-09-20",
+        "cooking_time": "30 minutes",
+        "author": "James Walker",
+        "thumbnail": "Creamy_Tomato_Basil_Soup.jpeg"
+    },
+    {
+        "rating": {
+            "rating_count": 38,
+            "average_rating": 4.7
+        },
+        "category_id": "7f8d5a1c-9b3e-4a6f-8f1d-5c9a9e2b3d4e",
+        "description": "A nutritious soup filled with lentils, carrots, celery, and potatoes for a hearty dish.",
+        "title": "Hearty Lentil and Vegetable Soup",
+        "published_date": "2024-09-25",
+        "cooking_time": "50 minutes",
+        "author": "Olivia Chen",
+        "thumbnail": "Hearty-Lentil-and-Vegetable-Soup.jpeg"
+    },
+    {
+        "rating": {
+            "rating_count": 52,
+            "average_rating": 4.9
+        },
+        "category_id": "7f8d5a1c-9b3e-4a6f-8f1d-5c9a9e2b3d4e",
+        "description": "An exotic Thai soup featuring chicken, mushrooms, and coconut milk with bold flavors.",
+        "title": "Spicy Thai Coconut Soup",
+        "published_date": "2024-09-30",
+        "cooking_time": "45 minutes",
+        "author": "Ava Brooks",
+        "thumbnail": "Spicy-Thai-Coconut-Soup.jpeg"
+    },
+    {
+        "rating": {
+            "rating_count": 47,
+            "average_rating": 4.8
+        },
+        "category_id": "7f8d5a1c-9b3e-4a6f-8f1d-5c9a9e2b3d4e",
+        "description": "A creamy broccoli soup with sharp cheddar cheese for a perfect cozy dinner.",
+        "title": "Broccoli Cheddar Soup",
+        "published_date": "2024-10-05",
+        "cooking_time": "35 minutes",
+        "author": "Liam Carter",
+        "thumbnail": "Broccoli-Cheddar-Soup.jpeg"
+    },
+
+    {
+        "rating": {
+            "rating_count": 54,
+            "average_rating": 4.7
+        },
+        "category_id": "3a1b2c3d-4e5f-6g7h-8i9j-0k1l2m3n4o5p",
+        "description": "Fluffy and light classic pancakes made with simple ingredients for the perfect breakfast treat.",
+        "title": "Classic Fluffy Pancakes",
+        "published_date": "2024-10-10",
+        "cooking_time": "25 minutes",
+        "author": "Emma Green",
+        "thumbnail": "Classic-Fluffy-Pancakes.jpeg"
+    },
+    {
+        "rating": {
+            "rating_count": 63,
+            "average_rating": 4.9
+        },
+        "category_id": "3a1b2c3d-4e5f-6g7h-8i9j-0k1l2m3n4o5p",
+        "description": "A healthy take on pancakes, made with ripe bananas and a hint of cinnamon.",
+        "title": "Banana Oat Pancakes",
+        "published_date": "2024-10-12",
+        "cooking_time": "20 minutes",
+        "author": "Liam Johnson",
+        "thumbnail": "Banana-Oat-Pancakes.jpeg"
+    },
+    {
+        "rating": {
+            "rating_count": 48,
+            "average_rating": 4.6
+        },
+        "category_id": "3a1b2c3d-4e5f-6g7h-8i9j-0k1l2m3n4o5p",
+        "description": "Rich and indulgent chocolate pancakes topped with chocolate sauce and whipped cream.",
+        "title": "Decadent Chocolate Pancakes",
+        "published_date": "2024-10-15",
+        "cooking_time": "30 minutes",
+        "author": "Sophia Martinez",
+        "thumbnail": "delicious-pancakes-with-chocolate-sauce-and-cream.jpeg"
+    },
+    {
+        "rating": {
+            "rating_count": 57,
+            "average_rating": 4.8
+        },
+        "category_id": "3a1b2c3d-4e5f-6g7h-8i9j-0k1l2m3n4o5p",
+        "description": "A gluten-free option made with almond flour, perfect for those with dietary restrictions.",
+        "title": "Gluten-Free Almond Pancakes",
+        "published_date": "2024-10-18",
+        "cooking_time": "25 minutes",
+        "author": "Noah Wilson",
+        "thumbnail": "Gluten-Free-Almond-Pancakes.jpeg"
+    },
+    {
+        "rating": {
+            "rating_count": 61,
+            "average_rating": 4.9
+        },
+        "category_id": "3a1b2c3d-4e5f-6g7h-8i9j-0k1l2m3n4o5p",
+        "description": "Pancakes infused with fresh blueberries and topped with a sweet blueberry syrup.",
+        "title": "Blueberry Bliss Pancakes",
+        "published_date": "2024-10-22",
+        "cooking_time": "20 minutes",
+        "author": "Ava Brown",
+        "thumbnail": "pancakes-with-toppings-on-top.jpeg"
+    },
+
+    {
+        "rating": {
+            "rating_count": 34,
+            "average_rating": 4.6
+        },
+        "category_id": "2c3d4e5f-6g7h-8i9j-0k1l-2m3n4o5p6q7r",
+        "description": "Juicy and flavorful grilled steak, seasoned to perfection.",
+        "title": "Grilled Steak",
+        "published_date": "2024-11-01",
+        "cooking_time": "40 minutes",
+        "author": "Chef Alex",
+        "thumbnail": "pexels-photo-769289.jpeg"
+    },
+    {
+        "rating": {
+            "rating_count": 28,
+            "average_rating": 4.8
+        },
+        "category_id": "2c3d4e5f-6g7h-8i9j-0k1l-2m3n4o5p6q7r",
+        "description": "Slow-cooked beef stew with hearty vegetables.",
+        "title": "Beef Stew",
+        "published_date": "2024-11-03",
+        "cooking_time": "2 hours",
+        "author": "Chef Jamie",
+        "thumbnail": "pexels-photo-2313686.jpeg"
+    },
+    {
+        "rating": {
+            "rating_count": 42,
+            "average_rating": 4.9
+        },
+        "category_id": "2c3d4e5f-6g7h-8i9j-0k1l-2m3n4o5p6q7r",
+        "description": "Tender and flavorful lamb chops cooked to perfection.",
+        "title": "Lamb Chops",
+        "published_date": "2024-11-05",
+        "cooking_time": "30 minutes",
+        "author": "Chef Riley",
+        "thumbnail": "pexels-photo-2878739.jpeg"
+    },
+    {
+        "rating": {
+            "rating_count": 19,
+            "average_rating": 4.5
+        },
+        "category_id": "2c3d4e5f-6g7h-8i9j-0k1l-2m3n4o5p6q7r",
+        "description": "Homemade meatballs in a rich tomato sauce.",
+        "title": "Meatballs in Sauce",
+        "published_date": "2024-11-07",
+        "cooking_time": "1 hour",
+        "author": "Chef Taylor",
+        "thumbnail": "pexels-photo-5253032.jpeg"
+    },
+    {
+        "rating": {
+            "rating_count": 37,
+            "average_rating": 4.7
+        },
+        "category_id": "2c3d4e5f-6g7h-8i9j-0k1l-2m3n4o5p6q7r",
+        "description": "A rich and hearty shepherd's pie with a mashed potato topping.",
+        "title": "Shepherd's Pie",
+        "published_date": "2024-11-09",
+        "cooking_time": "1 hour 30 minutes",
+        "author": "Chef Morgan",
+        "thumbnail": "pexels-photo-669734.jpeg"
+    },
+
+    {
+        "rating": {
+            "rating_count": 50,
+            "average_rating": 4.9
+        },
+        "category_id": "5f6g7h8i-9j0k-1l2m-3n4o-5p6q7r8s9t0u",
+        "description": "Crispy fried chicken with a golden crust and juicy interior.",
+        "title": "Fried Chicken",
+        "published_date": "2024-11-02",
+        "cooking_time": "30 minutes",
+        "author": "Chef Taylor",
+        "thumbnail": "pexels-photo-1059943.jpeg"
+    },
+    {
+        "rating": {
+            "rating_count": 43,
+            "average_rating": 4.7
+        },
+        "category_id": "5f6g7h8i-9j0k-1l2m-3n4o-5p6q7r8s9t0u",
+        "description": "Tender chicken marinated in a spicy, smoky sauce.",
+        "title": "Grilled Chicken",
+        "published_date": "2024-11-04",
+        "cooking_time": "45 minutes",
+        "author": "Chef Morgan",
+        "thumbnail": "pexels-photo-236887.jpeg"
+    },
+    {
+        "rating": {
+            "rating_count": 38,
+            "average_rating": 4.8
+        },
+        "category_id": "5f6g7h8i-9j0k-1l2m-3n4o-5p6q7r8s9t0u",
+        "description": "Creamy and delicious chicken alfredo pasta.",
+        "title": "Chicken Alfredo",
+        "published_date": "2024-11-06",
+        "cooking_time": "35 minutes",
+        "author": "Chef Alex",
+        "thumbnail": "pexels-photo-5175578.jpeg"
+    },
+    {
+        "rating": {
+            "rating_count": 29,
+            "average_rating": 4.6
+        },
+        "category_id": "5f6g7h8i-9j0k-1l2m-3n4o-5p6q7r8s9t0u",
+        "description": "Classic chicken pot pie with a flaky crust.",
+        "title": "Chicken Pot Pie",
+        "published_date": "2024-11-08",
+        "cooking_time": "1 hour",
+        "author": "Chef Jamie",
+        "thumbnail": "pexels-photo-8697524.jpeg"
+    },
+    {
+        "rating": {
+            "rating_count": 21,
+            "average_rating": 4.5
+        },
+        "category_id": "5f6g7h8i-9j0k-1l2m-3n4o-5p6q7r8s9t0u",
+        "description": "Aromatic chicken biryani cooked with spices and basmati rice.",
+        "title": "Chicken Biryani",
+        "published_date": "2024-11-10",
+        "cooking_time": "1 hour 20 minutes",
+        "author": "Chef Riley",
+        "thumbnail": "pexels-photo-12737817.jpeg"
+    },
+
+    {
+        "rating": {
+            "rating_count": 19,
+            "average_rating": 4.6
+        },
+        "category_id": "8i9j0k1l-2m3n-4o5p-6q7r-8s9t0u1v2w3x",
+        "description": "This rich and flavorful Penne Arrabbiata is a must-try for those who love a little heat. Made with a combination of ripe tomatoes, garlic, and red chili flakes, this classic Italian dish has the perfect balance of spicy and savory. Serve it with a sprinkling of Parmesan cheese and a dash of extra virgin olive oil for a meal that's sure to impress.",
+        "title": "Penne Arrabbiata",
+        "published_date": "2024-02-15",
+        "cooking_time": "25 minutes",
+        "thumbnail": "pexels-photo-1487511.jpeg",
+        "author": "Francesca Bianchi"
+    },
+    {
+        "rating": {
+            "rating_count": 14,
+            "average_rating": 4.8
+        },
+        "category_id": "8i9j0k1l-2m3n-4o5p-6q7r-8s9t0u1v2w3x",
+        "description": "Creamy, rich, and indulgent, this Fettuccine Alfredo is the perfect comfort food. A luscious sauce made from butter, cream, and Parmesan coats every strand of fettuccine, creating a decadent dish that's easy to prepare and loved by all. Serve with a side of garlic bread and a glass of white wine for the ultimate treat.",
+        "title": "Fettuccine Alfredo",
+        "published_date": "2024-03-01",
+        "cooking_time": "20 minutes",
+        "thumbnail": "pexels-photo-5807021.jpeg",
+        "author": "Marco Vitelli"
+    },
+    {
+        "rating": {
+            "rating_count": 27,
+            "average_rating": 4.5
+        },
+        "category_id": "8i9j0k1l-2m3n-4o5p-6q7r-8s9t0u1v2w3x",
+        "description": "This delightful dish features a delicate balance of shrimp, garlic, and pasta in a buttery sauce that's seasoned with a touch of lemon and parsley. Simple yet satisfying, it's perfect for a quick weeknight dinner or a romantic meal for two. Serve with a fresh salad for a complete dinner experience.",
+        "title": "Shrimp Scampi",
+        "published_date": "2024-04-02",
+        "cooking_time": "15 minutes",
+        "thumbnail": "pexels-photo-3727197.jpeg",
+        "author": "Giovanni Lazzari"
+    },
+    {
+        "rating": {
+            "rating_count": 30,
+            "average_rating": 4.9
+        },
+        "category_id": "8i9j0k1l-2m3n-4o5p-6q7r-8s9t0u1v2w3x",
+        "description": "This traditional Lasagna is packed with layers of tender pasta, rich beef sauce, creamy ricotta, and melted mozzarella. The perfect dish for feeding a crowd, it’s perfect for gatherings and special occasions. Serve with a side of garlic bread and a green salad for a well-rounded meal.",
+        "title": "Classic Lasagna",
+        "published_date": "2024-05-12",
+        "cooking_time": "1 hour 30 minutes",
+        "thumbnail": "free-photo-of-closeup-of-lasagna-with-fries-rice-and-salad-on-side.jpeg",
+        "author": "Lucia Marino"
+    },
+
+    {
+        "rating": {
+            "rating_count": 35,
+            "average_rating": 4.8
+        },
+        "category_id": "b2c3d4e5-f6g7-h8i9-j0k1-l2m3n4o5p6q7",
+        "description": "A classic Margherita pizza that is a celebration of simplicity. With a thin, crispy crust topped with fresh tomatoes, mozzarella, and basil, this pizza is a tribute to the flavors of Italy. Perfect for a light lunch or dinner, it's a dish everyone will love.",
+        "title": "Margherita Pizza",
+        "published_date": "2024-01-20",
+        "cooking_time": "15 minutes",
+        "thumbnail": "pexels-kampus-6605220.jpg",
+        "author": "Giuseppe Romano"
+    },
+    {
+        "rating": {
+            "rating_count": 42,
+            "average_rating": 4.6
+        },
+        "category_id": "b2c3d4e5-f6g7-h8i9-j0k1-l2m3n4o5p6q7",
+        "description": "This hearty Pepperoni pizza features a flavorful tomato sauce, mozzarella cheese, and generous slices of pepperoni. The combination of spicy, savory pepperoni with the creamy cheese makes it a favorite among pizza lovers everywhere.",
+        "title": "Pepperoni Pizza",
+        "published_date": "2024-02-05",
+        "cooking_time": "20 minutes",
+        "thumbnail": "pexels-photo-825661.jpeg",
+        "author": "Antonio Di Marco"
+    },
+    {
+        "rating": {
+            "rating_count": 28,
+            "average_rating": 4.7
+        },
+        "category_id": "b2c3d4e5-f6g7-h8i9-j0k1-l2m3n4o5p6q7",
+        "description": "Our Veggie Supreme pizza is a vegetarian delight loaded with a variety of fresh vegetables, including bell peppers, onions, olives, and mushrooms. Topped with mozzarella cheese and a zesty tomato sauce, this pizza is a perfect option for those seeking a meat-free meal.",
+        "title": "Veggie Supreme Pizza",
+        "published_date": "2024-03-10",
+        "cooking_time": "18 minutes",
+        "thumbnail": "pexels-photo-3762069.jpeg",
+        "author": "Maria Luppi"
+    },
+    {
+        "rating": {
+            "rating_count": 50,
+            "average_rating": 4.9
+        },
+        "category_id": "b2c3d4e5-f6g7-h8i9-j0k1-l2m3n4o5p6q7",
+        "description": "The BBQ Chicken pizza combines tender chunks of grilled chicken with a smoky BBQ sauce, red onions, and cilantro, topped with mozzarella and cheddar cheese. This pizza offers a perfect balance of sweet, savory, and smoky flavors.",
+        "title": "BBQ Chicken Pizza",
+        "published_date": "2024-04-02",
+        "cooking_time": "20 minutes",
+        "thumbnail": "pexels-photo-14906564.jpeg",
+        "author": "Luca Bellini"
+    },
+    {
+        "rating": {
+            "rating_count": 38,
+            "average_rating": 4.5
+        },
+        "category_id": "b2c3d4e5-f6g7-h8i9-j0k1-l2m3n4o5p6q7",
+        "description": "This delicious Hawaiian pizza combines the sweetness of pineapple with the savory goodness of ham and cheese. A perfect combination of flavors, it's a favorite for those who like a sweet and savory twist on traditional pizza.",
+        "title": "Hawaiian Pizza",
+        "published_date": "2024-05-12",
+        "cooking_time": "15 minutes",
+        "thumbnail": "free-photo-of-top-view-of-a-pizza-on-a-wooden-cutting-board.jpeg",
+        "author": "Francesco Costa"
+    },
+
+    {
+        "rating": {
+            "rating_count": 50,
+            "average_rating": 4.9
+        },
+        "category_id": "e5f6g7h8-i9j0-k1l2-m3n4-o5p6q7r8s9t0",
+        "description": "This classic Chocolate Cake is rich, moist, and topped with a smooth chocolate ganache. Made with high-quality cocoa powder and the perfect balance of sweetness, it's an ideal dessert for any celebration or simply when you're in the mood for something indulgent.",
+        "title": "Classic Chocolate Cake",
+        "published_date": "2024-01-15",
+        "cooking_time": "40 minutes",
+        "thumbnail": "pexels-photo-9291126.jpeg",
+        "author": "Isabella Gallo"
+    },
+    {
+        "rating": {
+            "rating_count": 32,
+            "average_rating": 4.6
+        },
+        "category_id": "e5f6g7h8-i9j0-k1l2-m3n4-o5p6q7r8s9t0",
+        "description": "Lemon Drizzle Cake is a light, zesty cake that's perfect for afternoon tea or as a refreshing dessert. With a tangy lemon syrup poured over the top, it creates a delightful balance of sweetness and citrus.",
+        "title": "Lemon Drizzle Cake",
+        "published_date": "2024-02-10",
+        "cooking_time": "35 minutes",
+        "thumbnail": "pexels-suzyhazelwood-1098592.jpg",
+        "author": "Sophia Di Angelo"
+    },
+    {
+        "rating": {
+            "rating_count": 28,
+            "average_rating": 4.7
+        },
+        "category_id": "e5f6g7h8-i9j0-k1l2-m3n4-o5p6q7r8s9t0",
+        "description": "This Carrot Cake is a moist, flavorful cake made with fresh carrots, walnuts, and a hint of cinnamon. Topped with cream cheese frosting, it's a perfect treat for special occasions or a cozy dessert for any day of the week.",
+        "title": "Carrot Cake",
+        "published_date": "2024-03-05",
+        "cooking_time": "45 minutes",
+        "thumbnail": "pexels-photo-963755.jpeg",
+        "author": "Marco Benetti"
+    },
+    {
+        "rating": {
+            "rating_count": 40,
+            "average_rating": 4.8
+        },
+        "category_id": "e5f6g7h8-i9j0-k1l2-m3n4-o5p6q7r8s9t0",
+        "description": "A classic Vanilla Sponge Cake, soft and fluffy with a light texture, perfect for layering with cream or fruit. This versatile cake can be used for many occasions, from birthdays to weddings, or simply as a treat with a cup of tea.",
+        "title": "Vanilla Sponge Cake",
+        "published_date": "2024-04-12",
+        "cooking_time": "30 minutes",
+        "thumbnail": "pexels-karolina-grabowska-4040692.jpg",
+        "author": "Giulia Mariani"
+    },
+    {
+        "rating": {
+            "rating_count": 25,
+            "average_rating": 4.5
+        },
+        "category_id": "e5f6g7h8-i9j0-k1l2-m3n4-o5p6q7r8s9t0",
+        "description": "Red Velvet Cake is a showstopper with its striking red color and smooth, tangy cream cheese frosting. With its moist texture and perfect balance of cocoa and buttermilk, this cake is both visually impressive and delicious.",
+        "title": "Red Velvet Cake",
+        "published_date": "2024-05-01",
+        "cooking_time": "50 minutes",
+        "thumbnail": "pexels-photo-806363.jpeg",
+        "author": "Alessandra De Luca"
+    },
+
+    {
+        "rating": {
+            "rating_count": 62,
+            "average_rating": 4.8
+        },
+        "category_id": "h8i9j0k1-l2m3-n4o5-p6q7-r8s9t0u1v2w3",
+        "description": "Flaky, buttery, and irresistibly delicious, these Croissants are the epitome of French pastry perfection. Made with layers of buttery dough, each bite is a delicate balance of crispiness and softness, making them perfect for breakfast or a mid-day treat.",
+        "title": "Classic Croissants",
+        "published_date": "2024-01-10",
+        "cooking_time": "25 minutes",
+        "thumbnail": "pexels-photo-1510686.jpeg",
+        "author": "Pierre Lefevre"
+    },
+    {
+        "rating": {
+            "rating_count": 45,
+            "average_rating": 4.7
+        },
+        "category_id": "h8i9j0k1-l2m3-n4o5-p6q7-r8s9t0u1v2w3",
+        "description": "These Pain au Chocolat pastries are filled with rich dark chocolate and wrapped in layers of buttery dough. When baked, they are golden and crispy on the outside while the chocolate inside melts into a deliciously decadent treat.",
+        "title": "Pain au Chocolat",
+        "published_date": "2024-02-15",
+        "cooking_time": "30 minutes",
+        "thumbnail": "pexels-photo-29380149.webp",
+        "author": "Amélie Bonnet"
+    },
+    {
+        "rating": {
+            "rating_count": 38,
+            "average_rating": 4.6
+        },
+        "category_id": "h8i9j0k1-l2m3-n4o5-p6q7-r8s9t0u1v2w3",
+        "description": "These delicate Eclairs are filled with smooth vanilla cream and topped with a glossy chocolate glaze. With a crisp choux pastry base and rich filling, they are a classic pastry that offers a perfect balance of textures and flavors.",
+        "title": "Classic Eclairs",
+        "published_date": "2024-03-10",
+        "cooking_time": "35 minutes",
+        "thumbnail": "free-photo-of-paris-brest-with-cream.jpeg",
+        "author": "Lucie Martin"
+    },
+    {
+        "rating": {
+            "rating_count": 58,
+            "average_rating": 4.9
+        },
+        "category_id": "h8i9j0k1-l2m3-n4o5-p6q7-r8s9t0u1v2w3",
+        "description": "Apple Turnovers are a sweet and flaky pastry with a warm, spiced apple filling. The combination of cinnamon, sugar, and tender apples encased in buttery, flaky dough makes this a favorite for fall and winter desserts.",
+        "title": "Apple Turnovers",
+        "published_date": "2024-04-05",
+        "cooking_time": "40 minutes",
+        "thumbnail": "pexels-photo-5662082.webp",
+        "author": "Jean-Pierre Dumas"
+    },
+    {
+        "rating": {
+            "rating_count": 29,
+            "average_rating": 4.6
+        },
+        "category_id": "h8i9j0k1-l2m3-n4o5-p6q7-r8s9t0u1v2w3",
+        "description": "These delightful Danish Pastries are filled with a creamy almond filling and topped with a light glaze. Known for their soft texture and sweet almond flavor, they make a perfect companion to coffee or tea.",
+        "title": "Almond Danish Pastries",
+        "published_date": "2024-05-01",
+        "cooking_time": "25 minutes",
+        "thumbnail": "pexels-photo-8480695.webp",
+        "author": "Sophie Leblanc"
+    },
+
+    {
+        "rating": {
+            "rating_count": 102,
+            "average_rating": 4.8
+        },
+        "category_id": "k1l2m3n4-o5p6-q7r8-s9t0-u1v2w3x4y5z6",
+        "description": "A juicy, perfectly seasoned beef patty topped with melted cheddar cheese, crisp lettuce, tomato, and pickles, all sandwiched between a soft, toasted brioche bun. This classic burger is a crowd-pleaser that never goes out of style.",
+        "title": "Classic Cheeseburger",
+        "published_date": "2024-01-15",
+        "cooking_time": "20 minutes",
+        "thumbnail": "pexels-photo-1639557.jpeg",
+        "author": "Sam Reynolds"
+    },
+    {
+        "rating": {
+            "rating_count": 78,
+            "average_rating": 4.7
+        },
+        "category_id": "k1l2m3n4-o5p6-q7r8-s9t0-u1v2w3x4y5z6",
+        "description": "This Bacon BBQ Burger features a chargrilled beef patty, crispy bacon, smoky barbecue sauce, and sharp cheddar cheese. Topped with crispy onion rings and served on a toasted sesame bun, it's a smoky, savory, and satisfying meal.",
+        "title": "Bacon BBQ Burger",
+        "published_date": "2024-02-05",
+        "cooking_time": "25 minutes",
+        "thumbnail": "pexels-photo-2983102.webp",
+        "author": "Jessica Carter"
+    },
+    {
+        "rating": {
+            "rating_count": 56,
+            "average_rating": 4.6
+        },
+        "category_id": "k1l2m3n4-o5p6-q7r8-s9t0-u1v2w3x4y5z6",
+        "description": "For a lighter option, this Veggie Burger is made with a delicious blend of black beans, quinoa, and roasted vegetables. Topped with avocado, fresh spinach, and a tangy yogurt sauce, it's a healthy and flavorful alternative to traditional burgers.",
+        "title": "Veggie Burger",
+        "published_date": "2024-03-10",
+        "cooking_time": "30 minutes",
+        "thumbnail": "pexels-photo-1431305.webp",
+        "author": "Mark Thompson"
+    },
+    {
+        "rating": {
+            "rating_count": 88,
+            "average_rating": 4.9
+        },
+        "category_id": "k1l2m3n4-o5p6-q7r8-s9t0-u1v2w3x4y5z6",
+        "description": "This gourmet Truffle Burger takes the classic beef patty to the next level, topped with truffle aioli, sautéed mushrooms, and a slice of gruyère cheese. Served on a brioche bun, it's a rich and indulgent burger experience.",
+        "title": "Gourmet Truffle Burger",
+        "published_date": "2024-04-20",
+        "cooking_time": "30 minutes",
+        "thumbnail": "pexels-photo-70497.webp",
+        "author": "Clara Rodriguez"
+    },
+    {
+        "rating": {
+            "rating_count": 65,
+            "average_rating": 4.8
+        },
+        "category_id": "k1l2m3n4-o5p6-q7r8-s9t0-u1v2w3x4y5z6",
+        "description": "The Spicy Jalapeño Burger features a beef patty topped with spicy jalapeños, pepper jack cheese, and a zesty chipotle mayo. The heat from the jalapeños is balanced by the creaminess of the mayo, creating a burger that's both fiery and flavorful.",
+        "title": "Spicy Jalapeño Burger",
+        "published_date": "2024-05-05",
+        "cooking_time": "20 minutes",
+        "thumbnail": "pexels-photo-16407675.webp",
+        "author": "Liam Sanders"
+    },
+
+    {
+        "rating": {
+            "rating_count": 94,
+            "average_rating": 4.9
+        },
+        "category_id": "n4o5p6q7-r8s9-t0u1-v2w3-x4y5z6a7b8c9",
+        "description": "This Vegan Buddha Bowl is a vibrant, wholesome dish packed with nutrient-rich ingredients. It includes quinoa, roasted sweet potatoes, crispy chickpeas, and a variety of fresh vegetables, all drizzled with a creamy tahini dressing for a satisfying meal.",
+        "title": "Vegan Buddha Bowl",
+        "published_date": "2024-01-20",
+        "cooking_time": "30 minutes",
+        "thumbnail": "pexels-photo-6632285.jpeg",
+        "author": "Emma Green"
+    },
+    {
+        "rating": {
+            "rating_count": 112,
+            "average_rating": 4.8
+        },
+        "category_id": "n4o5p6q7-r8s9-t0u1-v2w3-x4y5z6a7b8c9",
+        "description": "A hearty and satisfying Vegan Lentil Soup made with tender lentils, carrots, celery, and tomatoes, all simmered in a rich vegetable broth. This flavorful soup is the perfect comfort food for chilly days.",
+        "title": "Vegan Lentil Soup",
+        "published_date": "2024-02-15",
+        "cooking_time": "40 minutes",
+        "thumbnail": "pexels-photo-28674710.webp",
+        "author": "Sarah Williams"
+    },
+    {
+        "rating": {
+            "rating_count": 67,
+            "average_rating": 4.7
+        },
+        "category_id": "n4o5p6q7-r8s9-t0u1-v2w3-x4y5z6a7b8c9",
+        "description": "These Vegan Tacos are filled with savory spiced black beans, fresh avocado, and tangy salsa, all wrapped in soft corn tortillas. Topped with cilantro and a squeeze of lime, they’re bursting with flavor and perfect for a quick and satisfying meal.",
+        "title": "Vegan Tacos",
+        "published_date": "2024-03-01",
+        "cooking_time": "25 minutes",
+        "thumbnail": "pexels-photo-8230030.jpeg",
+        "author": "Jenna White"
+    },
+    {
+        "rating": {
+            "rating_count": 85,
+            "average_rating": 4.9
+        },
+        "category_id": "n4o5p6q7-r8s9-t0u1-v2w3-x4y5z6a7b8c9",
+        "description": "A delicious Vegan Chickpea Curry made with coconut milk, tomatoes, and a blend of aromatic spices. This comforting and creamy curry is perfect for serving with basmati rice or naan bread for a satisfying, flavor-packed meal.",
+        "title": "Vegan Chickpea Curry",
+        "published_date": "2024-03-20",
+        "cooking_time": "35 minutes",
+        "thumbnail": "pexels-photo-6750384.jpeg",
+        "author": "Rachel Taylor"
+    },
+    {
+        "rating": {
+            "rating_count": 73,
+            "average_rating": 4.8
+        },
+        "category_id": "n4o5p6q7-r8s9-t0u1-v2w3-x4y5z6a7b8c9",
+        "description": "These Vegan Chocolate Chip Cookies are soft, chewy, and bursting with melty chocolate chips. Made with coconut oil and almond flour, they’re a healthier twist on the classic treat that’s just as delicious and indulgent.",
+        "title": "Vegan Chocolate Chip Cookies",
+        "published_date": "2024-04-05",
+        "cooking_time": "20 minutes",
+        "thumbnail": "pexels-photo-5847090.webp",
+        "author": "Olivia King"
+    },
+
+    {
+        "rating": {
+            "rating_count": 182,
+            "average_rating": 4.8
+        },
+        "category_id": "q7r8s9t0-u1v2-w3x4-y5z6-a7b8c9d0e1f2",
+        "description": "This classic Chocolate Cake is rich, moist, and incredibly decadent. Made with simple ingredients like flour, cocoa powder, and almond milk, this cake is perfect for any celebration or as a sweet treat to enjoy any day.",
+        "title": "Chocolate Cake",
+        "published_date": "2024-05-12",
+        "cooking_time": "45 minutes",
+        "thumbnail": "pexels-photo-27992331.webp",
+        "author": "Sophia Brown"
+    },
+    {
+        "rating": {
+            "rating_count": 210,
+            "average_rating": 4.9
+        },
+        "category_id": "q7r8s9t0-u1v2-w3x4-y5z6-a7b8c9d0e1f2",
+        "description": "Indulge in these creamy and refreshing Lemon Bars with a tangy lemon filling and a buttery crust. Perfect for summer picnics or as a sweet end to a meal, these bars are both tangy and sweet with just the right amount of tartness.",
+        "title": "Lemon Bars",
+        "published_date": "2024-06-03",
+        "cooking_time": "35 minutes",
+        "thumbnail": "pexels-photo-7771044.jpeg",
+        "author": "Emma White"
+    },
+    {
+        "rating": {
+            "rating_count": 158,
+            "average_rating": 4.7
+        },
+        "category_id": "q7r8s9t0-u1v2-w3x4-y5z6-a7b8c9d0e1f2",
+        "description": "These creamy Vanilla Cupcakes are light, fluffy, and topped with a smooth vanilla buttercream. They're perfect for birthdays, celebrations, or just a sweet indulgence on a weekend afternoon.",
+        "title": "Vanilla Cupcakes",
+        "published_date": "2024-07-18",
+        "cooking_time": "30 minutes",
+        "thumbnail": "pexels-photo-8014820.webp",
+        "author": "Olivia Lee"
+    },
+    {
+        "rating": {
+            "rating_count": 130,
+            "average_rating": 4.8
+        },
+        "category_id": "q7r8s9t0-u1v2-w3x4-y5z6-a7b8c9d0e1f2",
+        "description": "These Chocolate Chip Cookies are crisp on the edges and chewy in the center, packed with gooey chocolate chips. Made with coconut oil and flax eggs, they’re a healthier alternative without compromising on flavor.",
+        "title": "Chocolate Chip Cookies",
+        "published_date": "2024-08-10",
+        "cooking_time": "25 minutes",
+        "thumbnail": "pexels-photo-230325.webp",
+        "author": "Liam Green"
+    },
+    {
+        "rating": {
+            "rating_count": 120,
+            "average_rating": 4.9
+        },
+        "category_id": "q7r8s9t0-u1v2-w3x4-y5z6-a7b8c9d0e1f2",
+        "description": "This Strawberry Shortcake is made with light and fluffy biscuits, sweetened whipped coconut cream, and fresh, juicy strawberries. It’s the perfect dessert for any occasion, especially during strawberry season.",
+        "title": "Strawberry Shortcake",
+        "published_date": "2024-09-01",
+        "cooking_time": "40 minutes",
+        "thumbnail": "pexels-photo-3752076.webp",
+        "author": "Mia Clark"
+    },
+
+    {
+        "rating": {
+            "rating_count": 132,
+            "average_rating": 4.8
+        },
+        "category_id": "t0u1v2w3-x4y5-z6a7-b8c9-d0e1f2g3h4i5",
+        "description": "A refreshing blend of tropical fruits and creamy coconut milk. This smoothie is packed with vitamins and a perfect choice to kickstart your morning or to enjoy as an afternoon pick-me-up.",
+        "title": "Tropical Paradise Smoothie",
+        "published_date": "2024-06-15",
+        "cooking_time": "5 minutes",
+        "thumbnail": "pexels-photo-8181553.jpeg",
+        "author": "Lily Adams"
+    },
+    {
+        "rating": {
+            "rating_count": 178,
+            "average_rating": 4.9
+        },
+        "category_id": "t0u1v2w3-x4y5-z6a7-b8c9-d0e1f2g3h4i5",
+        "description": "A creamy, sweet smoothie made with ripe bananas and rich almond butter. This smoothie is not only delicious but also provides a boost of protein and energy to keep you going through your day.",
+        "title": "Banana Almond Butter Smoothie",
+        "published_date": "2024-07-02",
+        "cooking_time": "5 minutes",
+        "thumbnail": "pexels-photo-775030.webp",
+        "author": "James White"
+    },
+    {
+        "rating": {
+            "rating_count": 120,
+            "average_rating": 4.7
+        },
+        "category_id": "t0u1v2w3-x4y5-z6a7-b8c9-d0e1f2g3h4i5",
+        "description": "A vibrant green smoothie that’s as nutritious as it is refreshing. Packed with spinach, apple, cucumber, and a hint of lemon, it’s the perfect way to hydrate and energize yourself.",
+        "title": "Green Power Smoothie",
+        "published_date": "2024-08-10",
+        "cooking_time": "5 minutes",
+        "thumbnail": "pexels-photo-7937483.jpeg",
+        "author": "Sophia Green"
+    },
+    {
+        "rating": {
+            "rating_count": 98,
+            "average_rating": 4.6
+        },
+        "category_id": "t0u1v2w3-x4y5-z6a7-b8c9-d0e1f2g3h4i5",
+        "description": "A delicious and creamy smoothie with the rich flavors of mixed berries, Greek yogurt, and a touch of honey. It’s packed with antioxidants and protein, making it a great breakfast or snack option.",
+        "title": "Mixed Berry Yogurt Smoothie",
+        "published_date": "2024-08-20",
+        "cooking_time": "5 minutes",
+        "thumbnail": "pexels-photo-7974814.webp",
+        "author": "Mason Lee"
+    },
+    {
+        "rating": {
+            "rating_count": 150,
+            "average_rating": 4.8
+        },
+        "category_id": "t0u1v2w3-x4y5-z6a7-b8c9-d0e1f2g3h4i5",
+        "description": "This creamy and indulgent smoothie combines avocado and coconut milk with a hint of vanilla and sweet dates, providing a silky texture and a naturally sweet taste that will leave you craving more.",
+        "title": "Creamy Avocado Smoothie",
+        "published_date": "2024-09-05",
+        "cooking_time": "5 minutes",
+        "thumbnail": "pexels-photo-674557.webp",
+        "author": "Olivia Davis"
+    },
+
+    {
+        "rating": {
+            "rating_count": 210,
+            "average_rating": 4.8
+        },
+        "category_id": "w3x4y5z6-a7b8-c9d0-e1f2-g3h4i5j6k7l8",
+        "description": "Start your day with a hearty and wholesome breakfast! This classic scrambled eggs dish, served with crispy bacon and a side of freshly baked toast, is the perfect balance of protein and carbs.",
+        "title": "Classic Scrambled Eggs with Bacon",
+        "published_date": "2024-07-01",
+        "cooking_time": "10 minutes",
+        "thumbnail": "pexels-photo-10617283.jpeg",
+        "author": "Emily Johnson"
+    },
+    {
+        "rating": {
+            "rating_count": 180,
+            "average_rating": 4.7
+        },
+        "category_id": "w3x4y5z6-a7b8-c9d0-e1f2-g3h4i5j6k7l8",
+        "description": "A nutritious and filling smoothie bowl with a topping of granola, fresh berries, and chia seeds. This vibrant dish is packed with vitamins and antioxidants to kickstart your morning.",
+        "title": "Berry Smoothie Bowl",
+        "published_date": "2024-07-15",
+        "cooking_time": "5 minutes",
+        "thumbnail": "pexels-photo-7937023.webp",
+        "author": "Sarah Wilson"
+    },
+    {
+        "rating": {
+            "rating_count": 230,
+            "average_rating": 4.9
+        },
+        "category_id": "w3x4y5z6-a7b8-c9d0-e1f2-g3h4i5j6k7l8",
+        "description": "A stack of fluffy pancakes topped with maple syrup, fresh strawberries, and whipped cream. This indulgent breakfast will satisfy your sweet tooth and leave you feeling satisfied for hours.",
+        "title": "Fluffy Pancakes with Strawberries",
+        "published_date": "2024-08-05",
+        "cooking_time": "15 minutes",
+        "thumbnail": "pexels-photo-718739.webp",
+        "author": "James Smith"
+    },
+    {
+        "rating": {
+            "rating_count": 95,
+            "average_rating": 4.6
+        },
+        "category_id": "w3x4y5z6-a7b8-c9d0-e1f2-g3h4i5j6k7l8",
+        "description": "A classic avocado toast topped with a perfectly poached egg, a sprinkle of chili flakes, and a dash of olive oil. This dish is healthy, tasty, and a great way to fuel up for the day.",
+        "title": "Avocado Toast with Poached Egg",
+        "published_date": "2024-08-20",
+        "cooking_time": "10 minutes",
+        "thumbnail": "pexels-photo-7936964.jpeg",
+        "author": "Olivia Brown"
+    },
+    {
+        "rating": {
+            "rating_count": 165,
+            "average_rating": 4.8
+        },
+        "category_id": "w3x4y5z6-a7b8-c9d0-e1f2-g3h4i5j6k7l8",
+        "description": "A hearty and nutritious bowl of oatmeal, topped with a drizzle of honey, a handful of mixed nuts, and fresh banana slices. This warm breakfast is perfect for a cozy and filling start to the day.",
+        "title": "Warm Honey Nut Oatmeal",
+        "published_date": "2024-09-02",
+        "cooking_time": "10 minutes",
+        "thumbnail": "pexels-photo-7535155.jpeg",
+        "author": "Ethan White"
+    },
+
+    {
+        "rating": {
+            "rating_count": 180,
+            "average_rating": 4.7
+        },
+        "category_id": "z6a7b8c9-d0e1-f2g3-h4i5-j6k7l8m9n0o1",
+        "description": "A fresh and vibrant salad made with mixed greens, cherry tomatoes, cucumber, red onion, and a tangy balsamic vinaigrette dressing. Perfect as a side dish or a light meal.",
+        "title": "Classic Mixed Greens Salad",
+        "published_date": "2024-06-15",
+        "cooking_time": "10 minutes",
+        "thumbnail": "pexels-photo-8963428.jpeg",
+        "author": "Laura Davis"
+    },
+    {
+        "rating": {
+            "rating_count": 210,
+            "average_rating": 4.8
+        },
+        "category_id": "z6a7b8c9-d0e1-f2g3-h4i5-j6k7l8m9n0o1",
+        "description": "A Mediterranean-inspired salad featuring cucumber, red bell peppers, Kalamata olives, feta cheese, and a lemon-oregano dressing. A refreshing and healthy option for lunch or dinner.",
+        "title": "Mediterranean Cucumber Salad",
+        "published_date": "2024-07-10",
+        "cooking_time": "15 minutes",
+        "thumbnail": "pexels-photo-1059905.webp",
+        "author": "Sophia Clark"
+    },
+    {
+        "rating": {
+            "rating_count": 150,
+            "average_rating": 4.5
+        },
+        "category_id": "z6a7b8c9-d0e1-f2g3-h4i5-j6k7l8m9n0o1",
+        "description": "A hearty kale salad with roasted sweet potatoes, quinoa, avocado, and a tahini dressing. Packed with nutrients, this salad is perfect for a filling lunch or dinner.",
+        "title": "Kale & Sweet Potato Salad",
+        "published_date": "2024-07-25",
+        "cooking_time": "25 minutes",
+        "thumbnail": "pexels-photo-4210812.webp",
+        "author": "Evan Harris"
+    },
+    {
+        "rating": {
+            "rating_count": 190,
+            "average_rating": 4.9
+        },
+        "category_id": "z6a7b8c9-d0e1-f2g3-h4i5-j6k7l8m9n0o1",
+        "description": "A colorful and nutrient-dense salad with roasted beets, goat cheese, candied pecans, and arugula, dressed in a honey mustard vinaigrette. A beautiful and delicious salad that’s perfect for any occasion.",
+        "title": "Beet & Goat Cheese Salad",
+        "published_date": "2024-08-05",
+        "cooking_time": "30 minutes",
+        "thumbnail": "pexels-photo-12771066.webp",
+        "author": "Mia Thompson"
+    },
+    {
+        "rating": {
+            "rating_count": 160,
+            "average_rating": 4.6
+        },
+        "category_id": "z6a7b8c9-d0e1-f2g3-h4i5-j6k7l8m9n0o1",
+        "description": "A simple yet satisfying salad made with grilled chicken breast, avocado, corn, black beans, and a cilantro-lime dressing. This filling salad is perfect for a light lunch or dinner.",
+        "title": "Grilled Chicken & Avocado Salad",
+        "published_date": "2024-08-20",
+        "cooking_time": "20 minutes",
+        "thumbnail": "pexels-photo-12261069.webp",
+        "author": "Benjamin Miller"
+    },
+
+    {
+        "rating": {
+            "rating_count": 230,
+            "average_rating": 4.7
+        },
+        "category_id": "c9d0e1f2-g3h4-i5j6-k7l8-m9n0o1p2q3r4",
+        "description": "A classic BLT sandwich with crispy bacon, fresh lettuce, ripe tomatoes, and mayonnaise, all sandwiched between two slices of toasted sourdough bread. A timeless favorite for lunch.",
+        "title": "Classic BLT Sandwich",
+        "published_date": "2024-05-15",
+        "cooking_time": "10 minutes",
+        "thumbnail": "pexels-photo-9840180.jpeg",
+        "author": "Emma Johnson"
+    },
+    {
+        "rating": {
+            "rating_count": 210,
+            "average_rating": 4.6
+        },
+        "category_id": "c9d0e1f2-g3h4-i5j6-k7l8-m9n0o1p2q3r4",
+        "description": "A grilled cheese sandwich with melted cheddar cheese and a buttery golden crust, served with a side of tomato soup for dipping. Comfort food at its finest.",
+        "title": "Grilled Cheese Sandwich",
+        "published_date": "2024-06-01",
+        "cooking_time": "15 minutes",
+        "thumbnail": "pexels-photo-1885578.webp",
+        "author": "Liam Brown"
+    },
+    {
+        "rating": {
+            "rating_count": 180,
+            "average_rating": 4.8
+        },
+        "category_id": "c9d0e1f2-g3h4-i5j6-k7l8-m9n0o1p2q3r4",
+        "description": "A hearty turkey club sandwich made with layers of turkey breast, crispy bacon, fresh lettuce, tomato, and mayonnaise, all piled between toasted bread. A perfect meal for any time of the day.",
+        "title": "Turkey Club Sandwich",
+        "published_date": "2024-06-20",
+        "cooking_time": "12 minutes",
+        "thumbnail": "free-photo-of-toasted-sandwiches-and-dip.jpeg",
+        "author": "Olivia Smith"
+    },
+    {
+        "rating": {
+            "rating_count": 250,
+            "average_rating": 4.9
+        },
+        "category_id": "c9d0e1f2-g3h4-i5j6-k7l8-m9n0o1p2q3r4",
+        "description": "A vegetarian sandwich loaded with hummus, avocado, cucumbers, tomatoes, and fresh sprouts, served on whole grain bread. A healthy and satisfying option for lunch.",
+        "title": "Veggie Hummus Sandwich",
+        "published_date": "2024-07-05",
+        "cooking_time": "10 minutes",
+        "thumbnail": "pexels-photo-4899802.jpeg",
+        "author": "Ava Wilson"
+    },
+    {
+        "rating": {
+            "rating_count": 190,
+            "average_rating": 4.7
+        },
+        "category_id": "c9d0e1f2-g3h4-i5j6-k7l8-m9n0o1p2q3r4",
+        "description": "A delicious chicken Caesar sandwich with grilled chicken, Romaine lettuce, Caesar dressing, and Parmesan cheese, served on a toasted baguette. A flavorful twist on the classic Caesar salad.",
+        "title": "Chicken Caesar Sandwich",
+        "published_date": "2024-07-15",
+        "cooking_time": "15 minutes",
+        "thumbnail": "pexels-photo-1600732.jpeg",
+        "author": "Jack Taylor"
+    },
+
+    {
+        "rating": {
+            "rating_count": 180,
+            "average_rating": 4.8
+        },
+        "category_id": "f2g3h4i5-j6k7-l8m9-n0o1-p2q3r4s5t6u7",
+        "description": "Golden, crispy waffles topped with fresh berries, whipped cream, and a drizzle of maple syrup. The perfect breakfast or brunch option that’s both indulgent and satisfying.",
+        "title": "Classic Belgian Waffles",
+        "published_date": "2024-07-01",
+        "cooking_time": "20 minutes",
+        "thumbnail": "free-photo-of-delicious-belgian-waffles-with-strawberries.jpeg",
+        "author": "Sophia Miller"
+    },
+    {
+        "rating": {
+            "rating_count": 220,
+            "average_rating": 4.9
+        },
+        "category_id": "f2g3h4i5-j6k7-l8m9-n0o1-p2q3r4s5t6u7",
+        "description": "Fluffy waffles with a rich chocolate batter, served with a scoop of vanilla ice cream, drizzled with hot fudge sauce, and topped with chocolate shavings.",
+        "title": "Chocolate Lava Waffles",
+        "published_date": "2024-07-15",
+        "cooking_time": "25 minutes",
+        "thumbnail": "pexels-photo-789327.jpeg",
+        "author": "James Anderson"
+    },
+    {
+        "rating": {
+            "rating_count": 170,
+            "average_rating": 4.6
+        },
+        "category_id": "f2g3h4i5-j6k7-l8m9-n0o1-p2q3r4s5t6u7",
+        "description": "A delicious combination of waffles and cinnamon rolls, served with a generous drizzle of icing. The perfect sweet treat for breakfast or dessert.",
+        "title": "Cinnamon Roll Waffles",
+        "published_date": "2024-07-20",
+        "cooking_time": "30 minutes",
+        "thumbnail": "pexels-photo-351962.webp",
+        "author": "Olivia Clark"
+    },
+    {
+        "rating": {
+            "rating_count": 200,
+            "average_rating": 4.7
+        },
+        "category_id": "f2g3h4i5-j6k7-l8m9-n0o1-p2q3r4s5t6u7",
+        "description": "A savory twist on waffles, featuring crispy bacon and cheddar cheese folded into the batter. Served with a side of scrambled eggs and avocado for a filling breakfast.",
+        "title": "Bacon Cheddar Waffles",
+        "published_date": "2024-08-01",
+        "cooking_time": "25 minutes",
+        "thumbnail": "pexels-photo-6529824.webp",
+        "author": "Ethan Wilson"
+    },
+    {
+        "rating": {
+            "rating_count": 210,
+            "average_rating": 4.8
+        },
+        "category_id": "f2g3h4i5-j6k7-l8m9-n0o1-p2q3r4s5t6u7",
+        "description": "Gluten-free waffles made with almond flour, served with a dollop of Greek yogurt, a handful of mixed berries, and a drizzle of honey for a healthy, low-carb breakfast option.",
+        "title": "Gluten-Free Almond Flour Waffles",
+        "published_date": "2024-08-10",
+        "cooking_time": "20 minutes",
+        "thumbnail": "pexels-photo-5711391.webp",
+        "author": "Amelia Johnson"
+    },
+
+    {
+        "rating": {
+            "rating_count": 300,
+            "average_rating": 4.9
+        },
+        "category_id": "i5j6k7l8-m9n0-o1p2-q3r4-s5t6u7v8w9x0",
+        "description": "A rich and flavorful tonkotsu ramen with a creamy pork bone broth, topped with soft-boiled eggs, sliced pork belly, green onions, and a touch of sesame oil.",
+        "title": "Tonkotsu Ramen",
+        "published_date": "2024-06-01",
+        "cooking_time": "45 minutes",
+        "thumbnail": "free-photo-of-choice-of-ramen.jpeg",
+        "author": "Haruto Takahashi"
+    },
+    {
+        "rating": {
+            "rating_count": 250,
+            "average_rating": 4.7
+        },
+        "category_id": "i5j6k7l8-m9n0-o1p2-q3r4-s5t6u7v8w9x0",
+        "description": "A light and refreshing miso ramen with a savory miso broth, topped with fresh vegetables, tofu, and a sprinkle of chili flakes for a touch of heat.",
+        "title": "Miso Ramen",
+        "published_date": "2024-06-10",
+        "cooking_time": "40 minutes",
+        "thumbnail": "free-photo-of-a-bowl-of-ramen-with-pork-and-eggs.jpeg",
+        "author": "Sakura Yamada"
+    },
+    {
+        "rating": {
+            "rating_count": 280,
+            "average_rating": 4.8
+        },
+        "category_id": "i5j6k7l8-m9n0-o1p2-q3r4-s5t6u7v8w9x0",
+        "description": "A classic shoyu ramen with a soy-based broth, featuring tender chicken, bamboo shoots, nori, and a boiled egg for a traditional taste.",
+        "title": "Shoyu Ramen",
+        "published_date": "2024-06-15",
+        "cooking_time": "35 minutes",
+        "thumbnail": "free-photo-of-authentic-japanese-ramen-and-rice-meal.jpeg",
+        "author": "Kai Nakamura"
+    },
+    {
+        "rating": {
+            "rating_count": 220,
+            "average_rating": 4.6
+        },
+        "category_id": "i5j6k7l8-m9n0-o1p2-q3r4-s5t6u7v8w9x0",
+        "description": "A spicy ramen with a bold chili oil broth, served with sliced beef, bok choy, and a soft-boiled egg, bringing a fiery punch to your tastebuds.",
+        "title": "Spicy Chili Ramen",
+        "published_date": "2024-06-20",
+        "cooking_time": "30 minutes",
+        "thumbnail": "pexels-photo-2664216.jpeg",
+        "author": "Yuki Mori"
+    },
+    {
+        "rating": {
+            "rating_count": 260,
+            "average_rating": 4.7
+        },
+        "category_id": "i5j6k7l8-m9n0-o1p2-q3r4-s5t6u7v8w9x0",
+        "description": "A delicious vegan ramen with a rich vegetable broth, featuring tofu, mushrooms, and fresh spinach, perfect for a plant-based meal.",
+        "title": "Vegan Ramen",
+        "published_date": "2024-06-25",
+        "cooking_time": "30 minutes",
+        "thumbnail": "pexels-photo-5531480.jpeg",
+        "author": "Riko Tanaka"
+    },
+
+    {
+        "rating": {
+            "rating_count": 180,
+            "average_rating": 4.8
+        },
+        "category_id": "l8m9n0o1-p2q3-r4s5-t6u7-v8w9x0y1z2a3",
+        "description": "A creamy and smooth guacamole made with ripe avocados, fresh lime juice, cilantro, and a hint of spice. Perfect for serving with tortilla chips or as a topping for tacos.",
+        "title": "Classic Guacamole",
+        "published_date": "2024-06-01",
+        "cooking_time": "10 minutes",
+        "thumbnail": "pexels-photo-5737254.webp",
+        "author": "Maria Hernandez"
+    },
+    {
+        "rating": {
+            "rating_count": 150,
+            "average_rating": 4.7
+        },
+        "category_id": "l8m9n0o1-p2q3-r4s5-t6u7-v8w9x0y1z2a3",
+        "description": "A creamy, tangy ranch dip made with sour cream, mayo, and a blend of fresh herbs and spices. It pairs perfectly with veggie sticks or crispy snacks.",
+        "title": "Ranch Dip",
+        "published_date": "2024-06-05",
+        "cooking_time": "5 minutes",
+        "thumbnail": "pexels-photo-12557549.jpeg",
+        "author": "Emily Foster"
+    },
+    {
+        "rating": {
+            "rating_count": 200,
+            "average_rating": 4.9
+        },
+        "category_id": "l8m9n0o1-p2q3-r4s5-t6u7-v8w9x0y1z2a3",
+        "description": "A smooth and creamy hummus made from blended chickpeas, tahini, lemon juice, and garlic. Serve with pita bread, veggies, or use as a sandwich spread.",
+        "title": "Classic Hummus",
+        "published_date": "2024-06-10",
+        "cooking_time": "10 minutes",
+        "thumbnail": "pexels-photo-6089608.webp",
+        "author": "Lila Ahmad"
+    },
+    {
+        "rating": {
+            "rating_count": 120,
+            "average_rating": 4.6
+        },
+        "category_id": "l8m9n0o1-p2q3-r4s5-t6u7-v8w9x0y1z2a3",
+        "description": "A zesty and creamy spinach artichoke dip with a perfect balance of cheese and spinach, ideal for serving at parties or alongside crispy bread.",
+        "title": "Spinach Artichoke Dip",
+        "published_date": "2024-06-15",
+        "cooking_time": "30 minutes",
+        "thumbnail": "pexels-photo-14883746.webp",
+        "author": "Sophia Williams"
+    },
+    {
+        "rating": {
+            "rating_count": 170,
+            "average_rating": 4.7
+        },
+        "category_id": "l8m9n0o1-p2q3-r4s5-t6u7-v8w9x0y1z2a3",
+        "description": "A smoky and creamy chipotle dip with a kick of spice, perfect for pairing with tortilla chips, veggies, or grilled meats.",
+        "title": "Chipotle Cream Cheese Dip",
+        "published_date": "2024-06-20",
+        "cooking_time": "15 minutes",
+        "thumbnail": "pexels-photo-5836439.webp",
+        "author": "David Lee"
     }
 ]
-
